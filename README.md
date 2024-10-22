@@ -15,4 +15,4 @@
 - História em quadrinhos com imagens e textos em baixo, não será com diálogo em balões.
 
 ## Sprints
-- Sprint 1: <a href="https://github.com/saviosantanna/EngSoftware/blob/main/Sprints/Sprint%201.pdf">Sou um link para a página principal</a>
+- <a href="https://github.com/saviosantanna/EngSoftware/blob/main/Sprints/Sprint%201.pdf">Sprint 1</a>
