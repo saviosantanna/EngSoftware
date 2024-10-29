@@ -44,10 +44,10 @@ Revisamos os esboços e cenas com a equipe e recebemos feedback positivo quanto 
 
 - **Cena 3:**  
 Uma cena de quadrinho minimalista em um vasto deserto, com o viajante solitário visto ao longe, caminhando pelo horizonte. As dunas onduladas se estendem até onde a vista alcança, criando uma sensação de imensidão e isolamento. O viajante, com uma silhueta simples e esguia, veste roupas desgastadas e um manto que balança levemente com o vento. Ele carrega uma mochila pequena e um cajado, que complementam sua aparência de alguém em uma longa jornada. O céu é amplo e pálido, com suaves tons de azul e amarelo, capturando o calor e o silêncio do deserto. Não há outros sinais de vida, apenas a paisagem desolada, enfatizando a solidão e o percurso desafiador.
-![img Cena3](https://github.com/saviosantanna/EngSoftware/blob/main/imgs/cena2.jpg)  
+![img Cena3](https://github.com/saviosantanna/EngSoftware/blob/main/imgs/cena3.jpg)  
 *Na vastidão sem fim, ele é apenas uma sombra no horizonte, persistindo contra o silêncio.*
 
 - **Cena 4:**  
 Uma cena de quadrinho minimalista mostrando o viajante subindo uma duna íngreme de areia. Ele está em um plano mais próximo, com seu corpo ligeiramente inclinado para frente, sinalizando o esforço da escalada. A silhueta esguia e traços simples destacam suas roupas desgastadas e o manto que flutua levemente com o vento. O viajante segura o cajado firmemente, a cada passo afundando levemente na areia, e seu rosto está inclinado, sugerindo concentração e cansaço. O céu está claro e ensolarado, com tons quentes que ressaltam a dificuldade da caminhada sob o sol. Ao fundo, outras dunas se estendem, reforçando o desafio de sua jornada.
-![img Cena4](https://github.com/saviosantanna/EngSoftware/blob/main/imgs/cena3.jpg)  
+![img Cena4](https://github.com/saviosantanna/EngSoftware/blob/main/imgs/cena4.jpg)  
 *Cada passo exige esforço, mas a busca o mantém em movimento.*
