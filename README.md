@@ -15,4 +15,6 @@
 - História em quadrinhos com imagens e textos em baixo, não será com diálogo em balões.
 
 ## Sprints
-- <a href="https://github.com/saviosantanna/EngSoftware/blob/main/Sprints/Sprint%201.pdf">Sprint 1</a>
+- <a href="https://github.com/saviosantanna/EngSoftware/blob/main/Sprints/Sprint1.md">Sprint 1</a>
+- <a href="https://github.com/saviosantanna/EngSoftware/blob/main/Sprints/Sprint2.md">Sprint 2</a>
+- <a href="https://github.com/saviosantanna/EngSoftware/blob/main/Sprints/Sprint3.md">Sprint 3</a>

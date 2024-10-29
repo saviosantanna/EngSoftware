@@ -21,16 +21,16 @@
 ## **Sprint Backlog Tasks**
 
 ### **Desenho do Viajante**
-- [ ] Refinar o esboço do viajante (Sávio)
-- [ ] Criar variações de expressões e posturas (Sávio)
+- [x] Refinar o esboço do viajante (Sávio)
+- [x] Criar variações de expressões e posturas (Sávio)
 
 ### **Esboço dos Personagens Secundários**
-- [ ] Criar esboços dos personagens secundários (Sávio)
+- [x] Criar esboços dos personagens secundários (Sávio)
 
 ### **Storyboard**
-- [ ] Esboçar as próximas duas cenas
-- [ ] Posicionar o texto abaixo das novas imagens
+- [x] Esboçar as próximas duas cenas
+- [x] Posicionar o texto abaixo das novas imagens
 
 ### **Revisão e Feedback**
-- [ ] Revisar os esboços e o storyboard com a equipe/professor
-- [ ] Coletar feedback e ajustar conforme necessário
+- [x] Revisar os esboços e o storyboard com a equipe/professor
+- [x] Coletar feedback e ajustar conforme necessário
